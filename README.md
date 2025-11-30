@@ -1,6 +1,6 @@
 ## Español ✨
 
-## Backend de Gestión de Usuarios con JWT  
+Backend de Gestión de Usuarios con JWT  
 
 Este proyecto es un **backend en Node.js con Express y PostgreSQL** que permite gestionar usuarios mediante **autenticación con JWT**. El sistema ofrece funcionalidades de registro, login y obtención de datos de usuarios autenticados, cumpliendo con buenas prácticas de seguridad y manejo de errores.
 
@@ -36,7 +36,7 @@ Este proyecto es un **backend en Node.js con Express y PostgreSQL** que permite 
 
 ## English ✨
 
-## User Management Backend with JWT
+ User Management Backend with JWT
 
 This project is a **backend built with Node.js, Express, and PostgreSQL** that manages users through **JWT authentication**. It provides functionalities for registration, login, and retrieving authenticated user data, following security best practices and error handling.
 
